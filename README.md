@@ -1,8 +1,10 @@
-# React + Vite
+# Weather App application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Check it out here https://weatherappisrf.netlify.app
 
-Currently, two official plugins are available:
+E: I built the same weather app application but this time I have used React.js not only JavaScript Vanilla.
+S: He hecho la misma apliación de consulta del tiempo pero esta vez he usado React no solo con Vanilla JavaScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
